@@ -1,0 +1,5 @@
+echo "Hey World, \nwhat'sup?"
+echo "Hey World, \twhat'sup?"
+echo "Hey World, \b\b\b\b\bwhat'sup?"
+echo "\033[1mHey World, what'sup?\033[0m"
+echo "\033[7mHey World, what'sup?\033[0m"
