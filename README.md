@@ -1,4 +1,5 @@
-# linux 명령어
+# linux 명령어 
+[http://dump.com.ne.kr/linux/touch.html](http://dump.com.ne.kr/linux/touch.html)
 
 ## who am i
 * UID정보(bible)
